@@ -125,4 +125,3 @@ Once you’ve received your partner’s `add-error` branch:
 - `fixed-error`: Branch where the introduced errors are fixed.
 
 This workflow ensures clear collaboration and mirrors real-world debugging scenarios.
-``` 
